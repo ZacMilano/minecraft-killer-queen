@@ -1,3 +1,5 @@
+# To be run when a player joins blue
+
 team join blue @p[limit=1,sort=nearest]
 # this is accounted for in the continually-running command blocks for blue. we can maybe put those in a function too?
 # give @p[limit=1,sort=nearest] minecraft:blue_stained_glass 1
